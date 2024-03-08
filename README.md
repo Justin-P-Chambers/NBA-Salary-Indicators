@@ -13,5 +13,5 @@ Includes code to prepare, analyze, and visualize NBA 2022-2023 Free-Agent player
 `data`
 Includes all necessary data files to carry-out project.
 
-
+`Visualizations`
 Contains various plots showing the relationship between key metrics and salary.
